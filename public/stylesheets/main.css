@@ -6,6 +6,10 @@
     padding: 0;
 }
 
+.thumbnailIndex {
+    height: 352px;
+}
+
 .thumbnail .caption-full {
     padding: 9px;
 }
@@ -16,4 +20,53 @@
 
 .navbar {
     border-radius: 0;
+}
+
+.btn-lg {
+    background: #2196F3 !Important;
+    color: #fff !Important;
+    border-color: #2196F3 !Important;
+}
+
+.btn-default {
+    color: #333;
+    background-color: #f5f5f5;
+    border-color: #e8e8e8 !important;
+box-shadow: none!important;
+    
+}
+
+.well {
+    box-shadow: none !Important;
+}
+
+.navbar-right li:nth-of-type(2) a {
+    color: #2196F3 !Important;
+}
+
+
+.btn-success {
+    color: #fff !Important;
+    background-color: #009688 !Important;
+    border-color: #009688 !Important;
+}
+
+.comment {
+    margin-bottom: 13px;
+}
+
+.list-group-item.active {
+    color: #fff !Important;
+    background-color: #009688 !Important;
+    border-color: #009688 !Important;
+}
+
+.campgroundName {
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.campgroundDesc {
+    font-size: 15px;
+    margin-top: 15px;
 }
