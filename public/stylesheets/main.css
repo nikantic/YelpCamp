@@ -70,3 +70,9 @@ box-shadow: none!important;
     font-size: 15px;
     margin-top: 15px;
 }
+
+.container404 {
+    margin: 0 auto;
+    text-align: center;
+    line-height: 29px;
+}
